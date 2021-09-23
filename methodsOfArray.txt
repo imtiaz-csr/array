@@ -6,10 +6,10 @@ That's it! You are good to go :)
 N.B: When the console is full, clear it by pressing Ctrl+L in your keyboard!
 
 push		- push an item to the end.
-unshift		- push an item to the begining.
+unshift		- push an item to the beginning.
 
 pop		- delete an item from the end.
-shift		- delete an item from the begining.
+shift		- delete an item from the beginning.
 
 toString	- print the array items.
 length		- number of characters in the array.
