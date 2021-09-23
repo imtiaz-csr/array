@@ -1,0 +1,20 @@
+Open Google Chrome Browser. 
+Right mouse -> click inspect element.
+Click Console to write code.
+That's it! You are good to go :)
+
+N.B: When the console is full, clear it by pressing Ctrl+L in your keyboard!
+
+push		- push an item to the end.
+unshift		- push an item to the begining.
+
+pop		- delete an item from the end.
+shift		- delete an item from the begining.
+
+toString	- print the array items.
+length		- number of characters in the array.
+indexOf		- find the index number.
+lastIndexOf	- find the last index of the specific element. If not found it returns -1
+
+reverse		- reverse the array items from last to first.
+splice		- modify an array by inserting or deleting items.
